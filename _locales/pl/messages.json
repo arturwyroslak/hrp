@@ -1,0 +1,8 @@
+{
+  "ext_name": {
+    "message": "HARPA AI | Asystent internetowy ChatGPT"
+  },
+  "ext_description": {
+    "message": "Wyświetla odpowiedzi ChatGPT na stronach wyszukiwarki. Podsumowuje, przepisuje, wydobywa dane i ceny ze stron internetowych."
+  }
+}

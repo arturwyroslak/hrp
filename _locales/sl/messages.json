@@ -1,0 +1,8 @@
+{
+  "ext_name": {
+    "message": "HARPA AI | Spletni pomočnik ChatGPT"
+  },
+  "ext_description": {
+    "message": "Prikazuje odgovore ChatGPT na straneh iskalnika. Povzema, prepisuje, izvleče podatke in cene s spletnih strani."
+  }
+}
